@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "10.16.3",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TorqueTriple/Inro-to-Node.git"
+  },
+  "author": "Tetram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TorqueTriple/Inro-to-Node/issues"
+  },
+  "homepage": "https://github.com/TorqueTriple/Inro-to-Node#readme"
+}
